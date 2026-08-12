@@ -1,4 +1,4 @@
-# Olfactory Intelligence
+# ScentSense: Olfactory Data Analytics & Prediction
 
 A machine learning project that predicts fragrance success using the Fragrantica dataset.  
 Given a perfume's composition (notes, accords, metadata), the model predicts whether it will be a top-30% commercial success.
